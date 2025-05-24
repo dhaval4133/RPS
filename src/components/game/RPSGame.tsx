@@ -124,9 +124,6 @@ const RPSGame: React.FC = () => {
         </div>
       </main>
       
-      <footer className="mt-12 text-center text-sm text-muted-foreground">
-        <p>&copy; {new Date().getFullYear()} RPS Duel. Built with Next.js & ShadCN UI.</p>
-      </footer>
     </div>
   );
 };
